@@ -1,0 +1,6 @@
+TaskID,Description,Deadline,AssignedTo,Priority,cleaned_description
+1,Fix login bug in website,2025-07-20,,High,fix login bug websit
+2,Write daily sales report,2025-07-18,,Medium,write daili sale report
+3,Implement search filter,2025-07-25,,High,implement search filter
+4,Design new user interface,2025-07-22,,Low,design new user interfac
+5,Deploy backend API,2025-07-21,,High,deploy backend api

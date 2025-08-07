@@ -1,0 +1,18 @@
+TaskID,Description,Deadline,AssignedTo,Priority,Status
+1.0,Fix login bug in website,2025-07-20,,High,Completed
+2.0,Write daily sales report,2025-07-18,,Medium,Pending
+3.0,Push code,2025-07-24,,High,Completed
+3.0,Implement search filter,2025-07-25,,High,Pending
+4.0,Design new user interface,2025-07-22,,Low,Completed
+5.0,Deploy backend API,2025-07-21,,High,Pending
+6.0,Buy groceries on the way home,2025-07-07,,Low,Completed
+7.0,Complete team's weekly report,2025-07-12,,Low,Pending
+8.0,Prepare slides for tomorrow's meeting,2025-07-14,,Medium,Completed
+9.0,Schedule dentist appointment,2025-08-12,,Medium,Pending
+1.0,Submit report,2025-07-20,,High,Completed
+2.0,Fix bug,2025-07-21,,Medium,Pending
+3.0,Call client,2025-07-25,,Low,Completed
+4.0,Prepare presentation,2025-07-23,,High,Pending
+5.0,Organize files,2025-07-28,,Low,Completed
+6.0,Team meeting notes,2025-07-25,,Medium,Pending
+7.0,Update homepage,2025-07-29,,Medium,Pending
